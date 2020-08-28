@@ -3,7 +3,7 @@
 Projeto realizado para forma de exemplo de pagina para restaurante 🍽 ou pequenos negocioas que vendão comida 🥧 
 ## :cook: Web Desktop
 <p align="center">
-  <img alt="License" src="./docs/giphy.mp4">
+  <img width="10%" height="70%" alt="License" src="./docs/downsized.gif">
 </p>
 ## :cook: Web Mobile
 <p align="center">
