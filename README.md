@@ -1,6 +1,6 @@
 # 🍪 The Cookery
 
-Projeto realizado para forma de exemplo de pagina para restaurante 🍽 ou pequenos negocioas que vendão comida 🥧 
+Projeto realizado para forma de exemplo de pagina para restaurante 🍽 ou pequenos negócios que vendam comida 🥧
 ## :cook: Web Desktop
 <p align="center">
   <img width="100%" height="100%" alt="License" src="./docs/downsized.gif">
