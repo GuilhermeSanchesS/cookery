@@ -1,4 +1,4 @@
-# 🍪 The Cookery
+# 🍪 The Cookery 👨‍🍳
 
 Projeto realizado para forma de exemplo de pagina para restaurante 🍽 ou pequenos negócios que vendam comida 🥧
 ## :cook: Web Desktop
